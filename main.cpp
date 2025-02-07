@@ -11,7 +11,7 @@ int main(int argc, char** argv){
     std::cout << "timer start\n\n";
     st.start();
     system(argv[1]);
-    std::cout << "real time:" << st.peek_ms() << '\n';
+    std::cout << "real time:" << st.peek_ms() << "ms\n";
 
     return 0;
 }
