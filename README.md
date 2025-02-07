@@ -1,1 +1,1 @@
-Simple program to time code in Linux. 
+Simple program to time programs in Linux. 
